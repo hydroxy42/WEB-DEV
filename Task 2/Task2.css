@@ -1,0 +1,41 @@
+.a1 {
+    color : green ;
+}
+
+.uu {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10x;
+    background-color: #3366cc;
+    display: block;
+}   
+
+
+a {
+    color: white;
+    text-decoration: none ;
+    font-size: x-large;
+    margin: 18px;
+    
+}
+
+a:hover{
+    color: red;   
+    transition: 0.5s;
+}
+
+input{
+    float: right;
+    border-radius: 17px;
+    width: 25%;
+    margin-right: 10px;
+    font-size: large;   
+}
+
+
+
+
+
+
+
